@@ -27,7 +27,7 @@
 <div style="display: inline_block"> 
   <h2>Connect with me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
   <a href="https://www.linkedin.com/in/sofia-sanchez-vargas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Violet" target="_blank"></a>
-<a href="https://discord.gg/2817" target="blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white" />
+<a href="https://discord.Soffia_Sanchezz#3855" target="blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white" />
 </a>
   <a href="https://msng.link/o/?Sofia Sanchez=tg" target="blank"><img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
@@ -37,9 +37,7 @@
 
 <h2 bg-[#8149A6]> My Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SoffiaSanchezz&theme=buefy-dark&border_radius=)](https://git.io/streak-stats)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoffiaSanchezz&show_icons=true&theme=radical)
 
@@ -48,12 +46,7 @@
 <!-- <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
  -->
-<!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/sofia-sanchez-vargas/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https:)
-
- 
-
+<!-- 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
