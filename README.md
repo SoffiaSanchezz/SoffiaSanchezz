@@ -4,8 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
 
   <img
-       width="350"
-      align="left" src="https://github.com/SoffiaSanchezz/Img/blob/main/Presentaci%C3%B3n%20de%20marca%20personal%20Acuarela%20Elegante%20y%20minimalista%20Azul%20y%20rosa%20(5).gif?raw=true"  />
+       width="100%" height="30%" src="https://github.com/SoffiaSanchezz/Img/blob/main/Presentaci%C3%B3n%20de%20marca%20personal%20Acuarela%20Elegante%20y%20minimalista%20Azul%20y%20rosa%20(5).gif?raw=true"  />
 <!--   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkZjI4OWQyYjA2NDYxOGQ3M2I2YzQwMzNjZTNmOWVlNmFlZmNmZSZjdD1n/Wj7lNjMNDxSmc/giphy.gif" width="100" -->
 <h2> Hi, I'm Sofia Sanchez! <img  src="https://media2.giphy.com/media/ZCGlF41uo0GY7oPymE/giphy.gif" width="50"></h2>
   <h4>A Full Stack Web Developer in training, passionate about design, passionate about web design, Knowledgeable in these languages and tools.</h4>
