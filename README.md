@@ -31,7 +31,7 @@
 </a>
   <a href="https://msng.link/o/?Sofia Sanchez=tg" target="blank"><img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
-<img align='right' src="https://github.com/SoffiaSanchezz/Img/blob/main/assets/image-removebg-preview%20(12).png?raw=true" width="400">
+<img align='right' src="https://github.com/SoffiaSanchezz/Img/blob/main/assets/image-removebg-preview%20(12).png?raw=true" width="300">
 </div>  
 
 
