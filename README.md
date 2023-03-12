@@ -7,7 +7,7 @@
        width="350"
       align="left" src="https://github.com/SoffiaSanchezz/Img/blob/main/assets/Presentaci%C3%B3n%20de%20marca%20personal%20Acuarela%20Elegante%20y%20minimalista%20Azul%20y%20rosa%20(2).gif?raw=true"  />
 <!--   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkZjI4OWQyYjA2NDYxOGQ3M2I2YzQwMzNjZTNmOWVlNmFlZmNmZSZjdD1n/Wj7lNjMNDxSmc/giphy.gif" width="100" -->
-<h2> Hi, I'm Sofia Sanchez! <img  src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h2>
+<h2> Hi, I'm Sofia Sanchez! <img  src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2>
   <h3>A Full Stack Web Developer in training, passionate about design, passionate about web design.</h3>
 </div>
 <div style="display: inline_block" align="center"><br>
