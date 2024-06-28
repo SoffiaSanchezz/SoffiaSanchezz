@@ -20,7 +20,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg"> -->
-<!--    <img align="center" alt="Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/boostrapcss/boostrapcss.svg"> -->
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
@@ -30,9 +29,10 @@
 <a href="https://discord.Soffia_Sanchezz#3855" target="blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white" />
 </a>
   <a href="https://msng.link/o/?Sofia Sanchez=tg" target="blank"><img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=Telegram&logoColor=white" />
+  <a href="https://my-porfolio-zeta-mocha.vercel.app/" target="blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=Violet" />
 </a>
 <img align='right' src="https://github.com/SoffiaSanchezz/Img/blob/main/assets/image-removebg-preview%20(12).png?raw=true" width="330">
-</div>  
+</div> 
 
 
 <h2 bg-[#8149A6]> My Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -43,7 +43,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoffiaSanchezz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-porfolio-zeta-mocha.vercel.app/)
 
 <!-- <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
