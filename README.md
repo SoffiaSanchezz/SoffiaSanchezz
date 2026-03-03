@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgresql,sqlite" alt="Backend Skills"/>
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=figma,docker,git,github,vscode,trello" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=figma,docker,git,github,vscode,trello,postman" alt="Tools"/>
 
 </div>
 
