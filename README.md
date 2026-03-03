@@ -30,13 +30,16 @@
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,flutter,ionic" alt="Frontend Skills"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="48" />
+</p>
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgresql,sqlite" alt="Backend Skills"/>
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=figma,docker,git,github,vscode,trello,postman" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=figma,docker,postman,git,github,vscode,trello" alt="Tools"/>
 </div>
 
 ---
