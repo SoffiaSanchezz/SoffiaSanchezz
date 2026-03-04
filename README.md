@@ -32,7 +32,7 @@
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" />
 </p>
 
 ### Backend & Database
