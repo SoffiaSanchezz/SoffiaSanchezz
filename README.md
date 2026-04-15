@@ -41,7 +41,7 @@
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,docker,postman,git,github,vscode" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=figma,docker,jenkins,postman,git,github,vscode" alt="Tools"/>
   
   <!-- Trello -->
   <img src="https://cdn.simpleicons.org/trello" height="40" alt="Trello"/>
