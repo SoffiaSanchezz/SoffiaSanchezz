@@ -31,7 +31,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts,js,react,angular,flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" height="40" style="background-color:#fff; border-radius:8px; padding:5px;" />
   <img src="https://cdn.simpleicons.org/lit" height="40" alt="Lit" height="40" style="background-color:#fff; border-radius:8px; padding:5px;"/>
 </p>
