@@ -40,7 +40,15 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgresql,sqlite" alt="Backend Skills"/>
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=figma,docker,postman,git,github,vscode,trello" alt="Tools"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,docker,postman,git,github,vscode" alt="Tools"/>
+  
+  <!-- Trello -->
+  <img src="https://cdn.simpleicons.org/trello" height="40" alt="Trello"/>
+  
+  <!-- Jira -->
+  <img src="https://cdn.simpleicons.org/jira" height="40" alt="Jira"/>
+</p>
 </div>
 
 ---
